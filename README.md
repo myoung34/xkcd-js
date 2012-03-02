@@ -1,6 +1,9 @@
 # XKCD.js
 [XKCD](http://www.xkcd.com/) module for [Node](http://nodejs.org/).
 
+## Install
+    npm install xkcd-js
+
 ## Example
 
     var xkcd = require('./xkcd')
