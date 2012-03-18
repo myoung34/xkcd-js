@@ -1,7 +1,7 @@
 {
   "name": "xkcd-js",
   "description": "Random XKCD Comic Generator based on width/height requirements",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Marcus Young",
   "licenses": [{
     "type": "MIT"

@@ -17,6 +17,10 @@
 
 ### get_random
 
+Generate data from a random comic with no restrictions.
+
+### get_random_width_height
+
 Generate data from a random comic that meets criteria. Requires a width and height as parameters.
 
 See example.
