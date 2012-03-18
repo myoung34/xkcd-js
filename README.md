@@ -2,7 +2,7 @@
 [XKCD](http://www.xkcd.com/) module for [Node](http://nodejs.org/).
 
 ## Install
-    npm install xkcd-js
+    npm install xkcd
 
 ## Example
 
