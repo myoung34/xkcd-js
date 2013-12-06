@@ -1,4 +1,7 @@
-# XKCD.js
+XKCD.js
+=======
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/myoung34/xkcd-js/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 [XKCD](http://www.xkcd.com/) module for [Node](http://nodejs.org/).
 
 ## Install
